@@ -2,7 +2,7 @@
 Способ 1:
 Открыть файл test-0.0.1-SNAPSHOT-spring-boot.jar и открыть localhost:8080/
 Способ 2:
-Открыть папку target, а в ней так же файл test-0.0.1-SNAPSHOT-spring-boot.jar - Ярлык и открыть localhost:8080/
+Открыть папку target, а в ней так же файл test-0.0.1-SNAPSHOT-spring-boot.jar и открыть localhost:8080/
 Способ 3:
 В случае запуска через IntelliJ IDEA необходимо запускать TestApplication, находящийся в src -> main ->java -> com.TestEDMS.test и далее
  так же открыть localhost:8080/
